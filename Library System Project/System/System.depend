@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1686045859 source:e:\library system project\system\main.cpp
+	<iostream>
+	<User.h>
+	<Book.h>
+	<Customer.h>
+	<Admin.h>
+	<Library.h>
+	<string>
+	<fstream>
+
+1685207426 source:e:\library system project\system\src\user.cpp
+	"User.h"
+
+1685207426 e:\library system project\system\include\user.h
+	<iostream>
+
+1685296712 source:e:\library system project\system\src\customer.cpp
+	"Customer.h"
+	<Library.h>
+	<iostream>
+
+1685280459 e:\library system project\system\include\customer.h
+	"Book.h"
+	"User.h"
+	<string>
+
+1687450909 source:e:\library system project\system\src\book.cpp
+	"Book.h"
+
+1685291393 e:\library system project\system\include\book.h
+	<string>
+	<iostream>
+
+1685213885 source:e:\library system project\system\src\admin.cpp
+	"Admin.h"
+
+1685213809 e:\library system project\system\include\admin.h
+	<iostream>
+	<User.h>
+
+1685297745 source:e:\library system project\system\src\library.cpp
+	"Library.h"
+
+1685297745 e:\library system project\system\include\library.h
+	<Book.h>
+	<iostream>
+
